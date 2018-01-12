@@ -1,1 +1,1 @@
-# friendfinder
+The Friend Finder app is designed to match you with a friend using the answers you enter into a 10 question survey.
